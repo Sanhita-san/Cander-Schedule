@@ -1,0 +1,10 @@
+body {
+    //background-color: plum;
+    //background-image: linear-gradient(to right, plum, rgb(214 105 105));
+    background-image: linear-gradient(to right, plum, rgb(68 62 114));
+    text-align: left;
+}
+
+.MuiInputBase-root {
+    color: plum;
+}
